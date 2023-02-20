@@ -1,4 +1,4 @@
-todos = [
+todos = {
     {
         "id": "1",
         "item": "Read a book."
@@ -7,4 +7,4 @@ todos = [
         "id": "2",
         "item": "Cycle around town."
     }
-]
+}
