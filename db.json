@@ -1,12 +1,10 @@
-{
-"data": [
-{
-"item": 2,
-"id": 1
-},
-{
-"item": 3,
-"id": 2
-}
+todos = [
+    {
+        "id": "1",
+        "item": "Read a book."
+    },
+    {
+        "id": "2",
+        "item": "Cycle around town."
+    }
 ]
-}
